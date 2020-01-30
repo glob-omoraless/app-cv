@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CvAndroid</string>
+    <string name="error">unexpected error</string>
+    <string name="description">photo candidate</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="career_summary">Career Summary</string>
+    <string name="languages">languages</string>
+    <string name="career_history">Career History</string>
+    <string name="education">Education</string>
+    <string name="responsibilities">Responsibilities</string>
+</resources>

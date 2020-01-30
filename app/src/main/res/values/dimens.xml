@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="constraint_info_height">120dp</dimen>
+    <dimen name="cardview_margin">16dp</dimen>
+    <dimen name="cardview_photo">70dp</dimen>
+    <dimen name="text_view_margin">16dp</dimen>
+    <dimen name="card_view_radius">50dp</dimen>
+    <dimen name="text_view_margin_top">8dp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
+    <dimen name="constraint_padding">12dp</dimen>
+    <dimen name="layout_margin_top">8dp</dimen>
+    <dimen name="constraint_item_padding">16dp</dimen>
+    <dimen name="constraint_item_padding_bottom">8dp</dimen>
+    <dimen name="layout_margin_bottom">8dp</dimen>
+    <dimen name="text_view_margin_item">8dp</dimen>
+</resources>
